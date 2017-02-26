@@ -1,4 +1,38 @@
 Documento de información.
+-------------------------
+
+- Funciones que debe cubrir la herramienta:
+-------------------------------------------
+- Mostrar un listado con todas los favoritos.
+- Al pinchar un favorito que salga una pantalla modal a modo de tarjeta del favorito.
+- Las tarjetas deben contener:
+	- Título
+	- Categoría
+	- Teléfono
+	- Email
+	- Url
+	- Valoración (1 a 5) Puden mostrarse a modo de estrellas con distinto color
+	- Mapita de Geolocalización.
+	- Información en distancia del lugar al punto en el que se encuentra el teléfono
+	- Iniciar Navegación al local
+	- Compartir la tarjeta con otros personas 
+		- Por MyM
+		- Whatsapp
+		- email
+		- sms
+		- Faceboock
+		- Twitter
+		- Snapchat
+	- Editar Tarjeta
+	- Borrar Tarjeta
+
+	- En la pantalla de Herramientas.
+		- Editar Categorías.
+			- Añadir Categoría
+			- Modificar Categoría
+			- Borrar Categoría
+			(Se mostrarán a modo de listado editable con tres 2 iconos (editar y borrar))
+
 
 
 
