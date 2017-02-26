@@ -46,11 +46,10 @@ header a:hover {
 
 
 
-div input {
-	border-color: #8A0808;
+form {
 	padding: 5px;
+	color:#8A0808;
 }
-
 
 
 ul {
@@ -58,8 +57,6 @@ ul {
 	margin: 5px;
 	border-radius: 10px 10px 10px 10px;
 }
-
-
 
 
 ul li {
