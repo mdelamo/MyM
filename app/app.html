@@ -39,31 +39,18 @@
 	
 
 		<header>
+		</header>
+		<div class="header-content">
 		  <p>
-		    <a href="#"><span style="float:left; padding:3px 3px 3px 3px;" class="glyphicon glyphicon-align-justify"></span></a>
+		    <a data-toggle="modal" data-target="#Settings" href="#"><span style="float:left; padding:3px 3px 3px 3px;" class="glyphicon glyphicon-align-justify"></span></a>
 			<span style="align-items: center;">My Must</span>
 		  </p>
-		</header>
-
-	<!--		<div class="form-control">
-				<span class="input-group-addon glyphicon glyphicon-search"></span>
-  				<input type="text" class="form-control" placeholder="Busca favorito...">
-  				<span class="input-group-addon glyphicon glyphicon-sort-by-attributes"></span>
-  		   </div>
+		  </div>
 		
-	
-	    <div class="input-append">
 
-	  -->
 	  
-	  <form>
-  		<div class="input-group">
-    	<input id="email" type="text" class="form-control" name="email" placeholder="Email">
-    	<span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
-  		</div>
-  	</form>
 
-
+	<div class="Listado">
 		<ul class="lista_tarjetas">
 
 			<li><div class="tarjeta">
@@ -109,8 +96,51 @@
 			</li>
 		</ul>
 
+	</div>
 
 
+
+
+<!--   Campo de búsqueda -->
+
+
+		<nav class="navbar navbar-default navbar-fixed-bottom">
+		  <div class="container-fluid">
+		    <div class="navbar-header">
+		     <div class="input-group">
+		    	<input id="Busqueda" type="text" class="form-control" name="Busqueda" placeholder="Buscar...">
+		    	<span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+		  		</div>
+		  	 </div>
+		  </div>
+		</nav>
+			
+
+
+
+
+<!-- Añadimos la pantalla modal de herramientas en el lateral -->
+
+		<!-- Modal -->
+		<div id="Settings" class="modal fade" role="dialog">
+		  <div class="modal-dialog">
+
+		    <!-- Modal content-->
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal">&times;</button>
+		        <h4 class="modal-title">Modal Header</h4>
+		      </div>
+		      <div class="modal-body">
+		        <p>Some text in the modal.</p>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      </div>
+		    </div>
+
+		  </div>
+		</div>
 
 
 
