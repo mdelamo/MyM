@@ -1,0 +1,28 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+body {
+	background: #8A0808;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+img {
+    display: block;
+    margin: 20% auto;
+}
+
+div p {
+	color: #fff;
+	text-align: center;
+	font-size: 150%;
+}
+
+
+
+
+

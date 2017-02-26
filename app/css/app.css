@@ -1,0 +1,92 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+body {
+	background: #fff;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+header {
+	background: #8A0808;
+	color: #fff;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	width: auto;
+	height: auto;
+	font-size: 20px;
+}
+
+
+header a {
+	color: #fff;
+}
+
+header a:visited {
+	color: #fff;
+}
+
+header a:link {
+	color: #fff;
+}
+
+header a:active {
+	color: #fff;
+}
+
+header a:hover {
+	color: #fff;
+}
+
+
+
+
+ul {
+	background: #fff;
+	margin: 10px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+
+
+ul li {
+	list-style-type: none;
+	line-height: 3px;
+	background: #fff;
+	padding:10px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+ul li div {
+	background: #888;
+	padding:10px;
+	margin-bottom: 20px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.tarjeta {
+	background: #ccc;
+}
+
+.tarjeta h1 {
+	font-size: 35px;
+	color:blue;
+}
+
+.tarjeta h2 {
+	font-size: 25px;
+	color: blue;
+}
+
+
+.tarjeta h3 {
+	font-size: 15px;
+	color:red;
+}
+

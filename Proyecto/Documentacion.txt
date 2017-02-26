@@ -1,0 +1,23 @@
+Documento de información.
+
+
+
+Tono de color LOGO
+-------------------
+
+rojo: 85	rojo: 33%
+verde: 153	verde 60%
+azul: 255	azul 100%
+alfa: 255	alfa: 100%
+hex: #5599ff
+
+
+
+
+Color Granate
+hex: #8A0808
+rojo: 138	rojo: 0%
+verde: 8	verde 94%
+azul: 8		azul 54%
+alfa: 255	alfa: 100%
+hex: #5599ff
