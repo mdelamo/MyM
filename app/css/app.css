@@ -46,47 +46,56 @@ header a:hover {
 
 
 
+div input {
+	border-color: #8A0808;
+	padding: 5px;
+}
+
+
 
 ul {
 	background: #fff;
-	margin: 10px;
+	margin: 5px;
 	border-radius: 10px 10px 10px 10px;
 }
+
 
 
 
 ul li {
-	list-style-type: none;
-	line-height: 3px;
 	background: #fff;
-	padding:10px;
-	border-radius: 10px 10px 10px 10px;
-}
-
-ul li div {
-	background: #888;
-	padding:10px;
-	margin-bottom: 20px;
-	border-radius: 10px 10px 10px 10px;
+	padding:3px;
+	margin-bottom: 3px;
+	border-color: #8A0808;
+	border-style: solid;
+	border-width: 1px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	
 }
 
 .tarjeta {
-	background: #ccc;
+	background: #fff;
+	border-color: #000;
+	border:12px;
+}
+
 }
 
 .tarjeta h1 {
-	font-size: 35px;
+	font-size: 15px;
 	color:blue;
 }
 
 .tarjeta h2 {
-	font-size: 25px;
+	font-size: 10px;
 	color: blue;
 }
 
 
 .tarjeta h3 {
-	font-size: 15px;
+	font-size: 7px;
 	color:red;
 }
 
